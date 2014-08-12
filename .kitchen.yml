@@ -12,3 +12,6 @@ suites:
   - name: default
     run_list: recipe[wordpress_app::default]
     attributes:
+
+
+testing
